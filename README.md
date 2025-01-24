@@ -1,5 +1,5 @@
 <h1>Hi, I'm Michalina Gers 👋</h1>
-<p>Currently studying Computer Science with Artificial Intelligence.</p>
+<p>Aspiring software engineer, with a keen interest in artificial intelligence. Currently working on expanding my portfolio.</p>
 
 <h1>I am currently learning:</h1>
 <ul>
